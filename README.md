@@ -1,34 +1,43 @@
-🌐 Portfólio Web Full Stack (WordPress, WooCommerce & Infra)
+🌐 Portfólio Web Full Stack
 
-Este repositório reúne  projetos profissionais que desenvolvi utilizando, WooCommerce, Figma e infraestrutura completa para publicação.
+Web Development • E-commerce • Infraestrutura
 
-Cada projeto contém:
-✔️ Criação visual
-✔️ Desenvolvimento técnico
-✔️ Configurações de e-commerce
-✔️ Infraestrutura (DNS, domínio, servidor, deploy)
-✔️ Manutenção e otimização
+Este repositório reúne projetos profissionais reais desenvolvidos por mim, envolvendo desenvolvimento web, e-commerce, design, e infraestrutura completa para publicação e manutenção.
+
+Atuo desde a criação visual e técnica até o deploy final, incluindo configuração de servidores, domínio, DNS e otimização contínua.
+
+Cada projeto contempla, conforme a necessidade:
+
+✔️ Criação visual e UX
+
+✔️ Desenvolvimento técnico (Web & CMS)
+
+✔️ E-commerce completo
+
+✔️ Infraestrutura e deploy
+
+✔️ Performance, SEO e manutenção
 
 🗂️ Projetos
 📌 Farol Distribuidora
 
 🔗 https://faroldistribuidora.com.br/
 
-Site institucional desenvolvido com layout fornecido pelo cliente.
+Site institucional desenvolvido com layout fornecido pelo cliente, adaptado tecnicamente para web.
 
-Funções realizadas
+Atividades realizadas
 
 Adaptação completa do layout recebido
 
 Customização de tema e ajustes visuais
 
-Criação da estrutura das páginas
+Estruturação das páginas institucionais
 
-Ajustes de responsividade
+Responsividade para desktop e mobile
 
-Otimização de performance (cache, minificação, compressão)
+Otimização de performance (cache, minificação e compressão)
 
-Configuração da hospedagem
+Configuração de hospedagem
 
 Configuração de DNS e domínio
 
@@ -40,45 +49,45 @@ Suporte e manutenção contínua
 
 🔗 https://dellaodonto.com.br/
 
-Projeto construído sem layout prévio — criei toda a estrutura visual e refinei com o cliente.
+Projeto desenvolvido sem layout prévio — identidade visual e estrutura criadas do zero em conjunto com o cliente.
 
-Funções realizadas
+Atividades realizadas
 
 Criação da identidade visual
 
 Estruturação completa das páginas (Home, serviços, equipe, contato, etc.)
 
-Customização do tema
+Desenvolvimento visual e ajustes de UI
 
-Ajustes de responsividade e UI
+Responsividade e usabilidade
 
-Otimizações de SEO (títulos, descrições, velocidade)
+Otimizações de SEO (títulos, descrições e velocidade)
 
 Configuração de performance
 
-Configuração do servidor e domínio
+Configuração de servidor, domínio e DNS
 
 Deploy final
 
 Melhorias contínuas conforme feedback
 
-📌 Peregrino Shop (E-commerce)
+📌 Peregrino Shop — E-commerce
 
-🔗 link ausente — envie o link e adiciono
+🔗 (link em breve)
 
-Loja virtual criada totalmente do zero, incluindo o design desenvolvido no Figma.
+Loja virtual criada totalmente do zero, incluindo design desenvolvido no Figma.
 
-Funções realizadas
+Atividades realizadas
 
 Criação completa do layout no Figma
 
-Desenvolvimento visual e estrutura do site
+Desenvolvimento visual e estrutural do site
 
-WooCommerce configurado do início ao fim
+Implementação completa de e-commerce
 
 Configuração de produtos e variações
 
-Montagem de filtros, categorias e navegação
+Estruturação de categorias e filtros
 
 Integração de gateways de pagamento:
 
@@ -90,7 +99,7 @@ Boleto
 
 Configuração de envios (Correios e transportadoras)
 
-Criação de páginas de produto, carrinho e checkout personalizadas
+Personalização de páginas de produto, carrinho e checkout
 
 Otimização de performance e SEO
 
@@ -98,18 +107,17 @@ Configuração de hospedagem, domínio e DNS
 
 Deploy final e suporte
 
-📌 Smart Alliance (E-commerce – Dinamarca)
+📌 Smart Alliance — E-commerce Internacional (Dinamarca)
 
 🔗 https://smartalliance.dk/
 
+E-commerce internacional desenvolvido do zero, com layout próprio criado no Figma.
 
-E-commerce internacional criado do zero, com layout próprio desenvolvido no Figma.
-
-Funções realizadas
+Atividades realizadas
 
 Desenvolvimento visual completo no Figma
 
-Implementação total via WooCommerce
+Implementação técnica do e-commerce
 
 Configuração multilíngue
 
@@ -121,7 +129,7 @@ Stripe
 
 Configuração de fretes internacionais
 
-Estruturação de categorias, páginas e experiência do usuário
+Estruturação da navegação e experiência do usuário
 
 Otimização de velocidade e desempenho
 
@@ -131,24 +139,25 @@ Deploy final
 
 Suporte e ajustes contínuos
 
-📌 Mundo Vape
+📌 Mundo Vape — E-commerce
 
 🔗 https://mundovape.net/
 
-Loja virtual desenvolvida do zero, sem layout prévio — design, identidade visual e estrutura criados por mim.
+Loja virtual desenvolvida sem layout prévio, com design, identidade visual e estrutura criados integralmente por mim.
 
-Funções realizadas
+Atividades realizadas
 
-Criação do layout base e identidade visual
-(cores, tipografia, composição das páginas, navegação)
+Criação da identidade visual (cores, tipografia e layout)
 
-Configuração completa do e-commerce
+Desenvolvimento da estrutura completa do site
+
+Implementação de e-commerce
 
 Cadastro de produtos e variações
 
 Organização de categorias e subcategorias
 
-Estruturação das páginas de produto e categorias
+Estruturação de páginas de produto e categorias
 
 Integração de métodos de pagamento:
 
@@ -166,67 +175,79 @@ Cálculo automático
 
 CEP e rastreamento
 
-Personalização avançada via CSS
+Personalizações avançadas via CSS
 
-Melhorias de interface e responsividade
+Responsividade e melhorias de interface
 
-Otimização de performance (cache, compressão, minificação)
+Otimização de performance (cache, compressão e minificação)
+
+Configuração de hospedagem, domínio e DNS
 
 Deploy completo
-
-Configuração de DNS, domínio e hospedagem
 
 Suporte contínuo
 
 📌 Treze Incorporadora
 
-Site institucional construído sem layout prévio — toda a estrutura visual foi criada e ajustada com o cliente.
+Site institucional desenvolvido sem layout prévio, com criação visual e técnica ajustada diretamente com o cliente.
 
-Funções realizadas
+Atividades realizadas
 
-Criação da identidade visual e estrutura inicial
+Criação da identidade visual
 
 Desenvolvimento das páginas institucionais
 
-Customização do tema e ajustes CSS
+Customização de tema e ajustes via CSS
 
-Otimização de responsividade
+Responsividade
 
 Configuração de hospedagem e domínio
 
 Deploy completo
 
-Ajustes contínuos ao longo do projeto
+Ajustes e melhorias contínuas
 
-🚀 Competências Aplicadas
+🚀 Competências Técnicas
 🖥️ Front-end
 
-Layouts próprios ou fornecidos
+HTML5, CSS3, JavaScript
 
-Desenvolvimento no Figma
+Desenvolvimento de layouts próprios ou fornecidos
 
-HTML, CSS e ajustes personalizados
+Prototipação e design no Figma
 
-Responsividade
+Responsividade e UX
 
-Elementor / Gutenberg
+Customizações avançadas de interface
 
-⚙️ Back-end (WordPress)
+Elementor e Gutenberg (quando aplicável)
 
-WooCommerce completo
+⚙️ Desenvolvimento Web & CMS
 
-Configuração de plugins
+WordPress como CMS (plataforma de entrega)
 
-Otimização de performance
+Customização e desenvolvimento de temas
 
-Ajuste de funcionalidades
+Ajustes funcionais via PHP e JavaScript
 
-🛠️ Infraestrutura
+Integração de plugins e APIs
 
-Servidores cPanel
+WooCommerce completo (produtos, pagamentos, checkout e frete)
 
-DNS e domínio
+Performance, SEO técnico e estruturação de conteúdo
+
+🛠️ Infraestrutura & Deploy
+
+Servidores Linux / cPanel
+
+Configuração de domínio e DNS
 
 MySQL
 
-Deploy e manutenção
+Otimização de performance
+
+Deploy, manutenção e suporte contínuo
+
+🧠 Observação Profissional
+
+WordPress é utilizado como CMS e base de entrega, aliado a desenvolvimento web tradicional, garantindo flexibilidade, performance e escalabilidade conforme o projeto.
