@@ -73,8 +73,6 @@ Melhorias contínuas conforme feedback
 
 📌 Peregrino Shop — E-commerce
 
-🔗 (link em breve)
-
 Loja virtual criada totalmente do zero, incluindo design desenvolvido no Figma.
 
 Atividades realizadas
@@ -143,7 +141,7 @@ Suporte e ajustes contínuos
 
 🔗 https://mundovape.net/
 
-Loja virtual desenvolvida sem layout prévio, com design, identidade visual e estrutura criados integralmente por mim.
+Loja virtual desenvolvida sem layout prévio, com design, identidade visual e estrutura criados integralmente.
 
 Atividades realizadas
 
