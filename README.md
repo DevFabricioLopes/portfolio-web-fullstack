@@ -1,6 +1,6 @@
 🌐 Portfólio Web Full Stack (WordPress, WooCommerce & Infra)
 
-Este repositório reúne os principais projetos profissionais que desenvolvi utilizando WordPress, WooCommerce, Figma e infraestrutura completa para publicação.
+Este repositório reúne  projetos profissionais que desenvolvi utilizando, WooCommerce, Figma e infraestrutura completa para publicação.
 
 Cada projeto contém:
 ✔️ Criação visual
@@ -102,7 +102,6 @@ Deploy final e suporte
 
 🔗 https://smartalliance.dk/
 
-(se o link for outro, me envie)
 
 E-commerce internacional criado do zero, com layout próprio desenvolvido no Figma.
 
