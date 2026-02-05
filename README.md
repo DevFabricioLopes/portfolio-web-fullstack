@@ -2,22 +2,22 @@
 
 **Web Development • E-commerce • Infraestrutura • Deploy**
 
-Este repositório reúne **projetos profissionais reais** desenvolvidos por mim, envolvendo **desenvolvimento web**, **e-commerce**, **design**, e **infraestrutura completa**, do código ao deploy em produção.
+Este repositório apresenta **projetos profissionais reais**, entregues em produção, envolvendo **desenvolvimento web**, **e-commerce**, **design** e **infraestrutura completa**, do código ao deploy final.
 
-Atuo em todas as etapas do projeto:
+Atuo de forma **end-to-end**, assumindo responsabilidade técnica total pelo projeto:
 - concepção visual
 - desenvolvimento técnico
 - integrações
 - publicação
 - otimização contínua
 
-Sempre com foco em **performance, escalabilidade e entrega profissional**.
+Sempre com foco em **performance, escalabilidade, estabilidade e entrega profissional**.
 
 ---
 
 ## 🧠 Abordagem Técnica
 
-Cada projeto é desenvolvido conforme a necessidade do negócio, podendo envolver:
+Cada projeto é desenvolvido conforme a necessidade real do negócio, podendo envolver:
 
 - ✔️ Criação visual e UX
 - ✔️ Desenvolvimento front-end e back-end
@@ -25,6 +25,13 @@ Cada projeto é desenvolvido conforme a necessidade do negócio, podendo envolve
 - ✔️ Integrações de pagamento e frete
 - ✔️ Infraestrutura, domínio, DNS e deploy
 - ✔️ Performance, SEO técnico e manutenção
+
+A stack é definida conforme o **contexto do projeto**, evitando soluções genéricas ou desnecessariamente complexas.
+
+---
+
+## 🗂️ Projetos
+
 
 ---
 
